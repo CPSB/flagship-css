@@ -1,7 +1,7 @@
 # Flagship-css
 
 A collection of all country flags in SVG - Inspired and based on
-[Lipis/flag-icon-css](https://github.com/lipis/flag-icon-css/blob/master/README.md)
+[Lipis/flag-icon-css](https://github.com/lipis/flag-icon-css/blob/master)
 
 ## Install 
 
@@ -41,4 +41,4 @@ so you will have to set manually the correct size of 4 by 3 ratio or if it's squ
 This project wouldn't exist without the awesome content of: 
 
 - [koppi](https://github.com/koppi)
-- [Lipis/flag-icon-css](https://github.com/lipis/flag-icon-css/blob/master/README.md)
+- [Lipis/flag-icon-css](https://github.com/lipis/flag-icon-css/blob/master)

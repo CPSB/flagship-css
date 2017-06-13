@@ -46,9 +46,9 @@ Usage
   gulp [TASK] [OPTIONS...]
 
 Available tasks
-  help       Display this help text.
-  scss:lint  Check the SCSS files for codestyle warnings.
-
+  help         Display this help text.
+  sass:lint    Check the SASS files for codestyle warnings.
+  sass:render  Generate the CSS file from SASS.
 ```
 
 # Credits 

@@ -35,3 +35,10 @@ background-repeat: no-repeat;
 
 Which means that the flag is just going to appear in the middle of an element, 
 so you will have to set manually the correct size of 4 by 3 ratio or if it's squared add also the `flag-icon-squared` class.
+
+# Credits 
+
+This project wouldn't exist without the awesome content of: 
+
+- [koppi](https://github.com/koppi)
+- [Lipis/flag-icon-css](https://github.com/lipis/flag-icon-css/blob/master/README.md)

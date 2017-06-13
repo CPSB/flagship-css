@@ -41,7 +41,7 @@ so you will have to set manually the correct size of 4 by 3 ratio or if it's squ
 Run the `npm install` to install the dependencies after cloning the project and you'll
 be able to run the following Gulp commands: 
 
-```bash
+```
 Usage
   gulp [TASK] [OPTIONS...]
 

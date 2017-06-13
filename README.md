@@ -36,6 +36,21 @@ background-repeat: no-repeat;
 Which means that the flag is just going to appear in the middle of an element, 
 so you will have to set manually the correct size of 4 by 3 ratio or if it's squared add also the `flag-icon-squared` class.
 
+# Development 
+
+Run the `npm install` to install the dependencies after cloning the project and you'll
+be able to run the following Gulp commands: 
+
+```bash
+Usage
+  gulp [TASK] [OPTIONS...]
+
+Available tasks
+  help       Display this help text.
+  scss:lint  Check the SCSS files for codestyle warnings.
+
+```
+
 # Credits 
 
 This project wouldn't exist without the awesome content of: 

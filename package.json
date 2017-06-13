@@ -1,0 +1,19 @@
+{
+  "name": "cpsb-flagship-css",
+  "version": "1.0.0",
+  "description": "CSS for country flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPSB/flagship-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPSB/flagship-css/issues"
+  },
+  "homepage": "https://github.com/CPSB/flagship-css#readme"
+}
